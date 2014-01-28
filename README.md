@@ -14,6 +14,9 @@ Get an instances of a Generic Type. For example List&lt;Int&gt; where ClassName 
 This module will return a [PSCredential] object from a credential stored in Windows Credential Manager. The 
 Get-StoredCredential function can only access Generic Credentials.
 
+### StringCrypto
+Encrypt and decrypt strings. Optional compression for large strings. 
+
 Qopy
 ---
 This is a binary distribution of [Qopy](https://github.com/cdhunt/Qopy).
